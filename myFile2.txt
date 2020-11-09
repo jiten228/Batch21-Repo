@@ -6,3 +6,4 @@ making some changes
 commit the changes
 pushing it back to
 remote repository
+FILE2 MMRE STUFF HERE
